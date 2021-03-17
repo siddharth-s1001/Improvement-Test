@@ -38,3 +38,5 @@ public class Qns4 {
 	}
 }
 }
+ string indexOf,lastIndexOf, charAt(), substring, length(), contains(), split(), replace, replaceAll
+indexOf(),lastIndexOf, charAt(), substring(), length(), contains(), split(), replace(), replaceAll()
